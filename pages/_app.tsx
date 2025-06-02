@@ -45,6 +45,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         config={{
           embeddedWallets: {
             createOnLogin: "all-users",
+            
           },
         }}
       >
